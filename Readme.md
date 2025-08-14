@@ -2,7 +2,7 @@
 
 A Python script that analyzes sentiment distribution in YouTube comments using TextBlob, visualizes results with Matplotlib, and summarizes findings using Gemini AI.
 
-![Sentiment Analysis Pie Chart]
+
 
 ## Features ✨
 - Fetches comments from any YouTube video
@@ -14,7 +14,7 @@ A Python script that analyzes sentiment distribution in YouTube comments using T
 
 ## Dependencies ⚙️
 
-!pip install googletrans==4.0.0-rc1
-!pip install textblob matplotlib
-!pip install google-generativeai
-!pip install regex
+- !pip install googletrans==4.0.0-rc1
+- !pip install textblob matplotlib
+- !pip install google-generativeai
+- !pip install regex
